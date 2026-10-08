@@ -4,7 +4,7 @@ Our goal with the library management system project is to organize the library, 
 | Name | Role |
 |------|------|
 |  Omar Ayman Shebl Motawea | Project Manager / Business Analyst |
-|  Michael Erian            | System Designer / UI/UX Designer |
+|  Michael Erian Ayad Sadhom| System Designer / UI/UX Designer |
 |  Gamal Hamed Gamal Aldin  | Documentation & QA |
 
 ## Tools
